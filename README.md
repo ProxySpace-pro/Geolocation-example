@@ -4,6 +4,10 @@ Example for the Geo.Proxyspace.Pro API, allowing you to perform geolocation look
 
 ![Example Screenshot](/screenshots/1.png)
 
-### About Geo.Proxyspace.Pro
+# About
 
-This API is free to use and is part of the services offered by [ProxySpace.pro](https://geo.proxyspace.pro/).
+This API is free to use and is part of the services offered by [ProxySpace.pro](https://Proxyspace.pro/).
+
+# Documentation
+
+For more information on how to use this free API, please visit [Geo.Proxyspace.pro](https://geo.Proxyspace.pro/).
